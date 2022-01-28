@@ -1,0 +1,14 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "message": "Учить английский 30 минут",
+      "completed": true
+    },
+    {
+      "message": "Купить хлеб",
+      "id": "d4c04d20-8089-4cd2-987a-f81568659ef9",
+      "completed": false
+    }
+  ]
+}
